@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "nada-login-page",
+    "slug": "nada-login-page"
+  }
+}
